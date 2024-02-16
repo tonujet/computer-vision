@@ -3,4 +3,5 @@ example/
 venv/
 *.doc
 *.docx
+*.pdf
 *.tmp
