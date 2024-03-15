@@ -5,3 +5,5 @@ venv/
 *.docx
 *.pdf
 *.tmp
+*.drawio
+__pycache__/
