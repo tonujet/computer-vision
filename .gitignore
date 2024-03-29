@@ -6,4 +6,5 @@ venv/
 *.pdf
 *.tmp
 *.drawio
+*.bkp
 __pycache__/
